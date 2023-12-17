@@ -93,7 +93,3 @@ class SudokuMenu:
 if __name__ == "__main__":
     menu = SudokuMenu()
     menu.run()
-
-if __name__ == "__main__":
-    menu = SudokuMenu()
-    menu.run()
